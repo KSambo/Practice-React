@@ -17,7 +17,7 @@ class Paragraph extends React.Component {
     )
   }
 }
-
+ 
 class Main extends React.Component {
   constructor (props) {
     super(props);
